@@ -1,3 +1,3 @@
 # FirebaseSwift
 
-Example of an implementation of Firebase for a iOS project.
+Example of a Firebase Implementation for an iOS project, using Swift and Facebook Login.
